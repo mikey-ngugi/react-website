@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-website/static/css/main.003fdd2e.css",
-    "main.js": "/react-website/static/js/main.92f7306b.js",
+    "main.js": "/react-website/static/js/main.d3c49012.js",
     "static/js/787.67b99310.chunk.js": "/react-website/static/js/787.67b99310.chunk.js",
     "static/media/helvetica-neu.ttf": "/react-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/react-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/react-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/react-website/index.html",
     "main.003fdd2e.css.map": "/react-website/static/css/main.003fdd2e.css.map",
-    "main.92f7306b.js.map": "/react-website/static/js/main.92f7306b.js.map",
+    "main.d3c49012.js.map": "/react-website/static/js/main.d3c49012.js.map",
     "787.67b99310.chunk.js.map": "/react-website/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.003fdd2e.css",
-    "static/js/main.92f7306b.js"
+    "static/js/main.d3c49012.js"
   ]
 }
